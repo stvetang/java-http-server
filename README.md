@@ -50,7 +50,7 @@ The server will start on **port 6789** by default. Place any files you want to s
 
 ## Project Structure
 
-├── WebServer.java       # Main server entry point + request handler
+├── WebServer.java      # Main server entry point + request handler
 └── index.html          # (optional) Default file served at /
 
 ## How It Works
