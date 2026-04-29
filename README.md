@@ -48,11 +48,6 @@ The server will start on **port 6789** by default. Place any files you want to s
   http://localhost:6789/
 ```
 
-## Project Structure
-
-├── WebServer.java      # Main server entry point + request handler
-└── index.html          # (optional) Default file served at /
-
 ## How It Works
 
 1. `WebServer` opens a `ServerSocket` on port 6789 and listens for connections in a loop.
